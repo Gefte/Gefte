@@ -1,6 +1,6 @@
 ### Hi, I'm Gefté Alcantara 👋
 
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/Gefte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gefte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gefte&layout=compact&langs_count=7&theme=dracula"/>
