@@ -6,4 +6,5 @@
 
 <div style="" align="rigth">
   <img align="center" alt="Gef-Python" height="30" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" height="30" width="70" align="center">
 </div>
