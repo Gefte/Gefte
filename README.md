@@ -22,3 +22,18 @@
   <a href="https://www.linkedin.com/in/gefte-alcantara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+  ##
+  
+  👨‍💻 Olá, sou um entusiasta de MLOPS (Machine Learning Operations) e adoro trabalhar com dados.
+  
+  📊 Aqui no meu perfil você encontrará projetos interessantes relacionados a automatização de pipeline de Machine Learning, escalabilidade e monitoramento de modelos.
+  
+  🚀 Também gosto de trabalhar com tecnologias de nuvem, domino os principais players do mercado. 
+  
+  🔧 Sou formado em Engenharia de Controle e Automação e atualmente estou cursando MBA em Engenharia de Software. 
+  
+  Sinta-se à vontade para dar uma olhada nos meus projetos e não hesite em entrar em contato comigo. 🤝
+
+
+
