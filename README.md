@@ -19,6 +19,6 @@
 
 🚀 Também tenho expertise em tecnologias de nuvem, dominando os principais players do mercado.
 
-🔧 Sou formado em Engenharia de Controle e Automação e atualmente estou cursando MBA em Engenharia de Software.
+🔧 Sou formado em Engenharia de Controle e Automação e atualmente estou cursando Mestrado em Engenharia de Software.
 
 Sinta-se à vontade para explorar meus projetos e não hesite em entrar em contato comigo. 🤝
